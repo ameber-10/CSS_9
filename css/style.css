@@ -1,0 +1,15 @@
+/* main > h2:nth-last-of-type(3){
+  background: pink;
+} */
+
+/* main > h2:nth-last-of-type(even){
+  background: pink;
+} */
+
+main > h2:first-of-type{
+  background: pink;
+}
+
+main > h2:last-of-type{
+  background: skyblue;
+}
